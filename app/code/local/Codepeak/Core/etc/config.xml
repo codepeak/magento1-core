@@ -7,9 +7,9 @@
     </modules>
     <global>
         <helpers>
-            <core>
+            <codepeak_core>
                 <class>Codepeak_Core_Helper</class>
-            </core>
+            </codepeak_core>
         </helpers>
     </global>
 </config> 
