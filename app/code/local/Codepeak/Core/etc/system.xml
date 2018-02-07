@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <config>
-	  <tabs>
-		<codepeak translate="label" module="core">
+    <tabs>
+        <codepeak translate="label" module="core">
             <label>Codepeak</label>
             <sort_order>0</sort_order>
         </codepeak>
-	  </tabs>
+    </tabs>
 </config>

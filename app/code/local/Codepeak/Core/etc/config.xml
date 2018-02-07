@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <config>
-  <modules>
-    <Codepeak_Core>
-      <version>1.0.0</version>
-    </Codepeak_Core>
-  </modules>
-  <global>
-    <helpers>
-      <core>
-        <class>Codepeak_Core_Helper</class>
-      </core>
-    </helpers>
-  </global>
+    <modules>
+        <Codepeak_Core>
+            <version>1.0.0</version>
+        </Codepeak_Core>
+    </modules>
+    <global>
+        <helpers>
+            <core>
+                <class>Codepeak_Core_Helper</class>
+            </core>
+        </helpers>
+    </global>
 </config> 
