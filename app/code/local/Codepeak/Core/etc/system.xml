@@ -3,7 +3,7 @@
     <tabs>
         <codepeak translate="label" module="codepeak_core">
             <label>Codepeak</label>
-            <sort_order>1000</sort_order>
+            <sort_order>201</sort_order>
         </codepeak>
     </tabs>
 </config>
